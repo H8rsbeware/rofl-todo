@@ -56,7 +56,7 @@ All completed todos will appear in the `~/.config/todos/complete` directory.
 
 ##  Deceleration
 
-No AI generation or assistance was used to create ROFL-Tree or ROFL-Projector, and only guidance (questions/answers) were used for ROFL itself.
+No AI generation or assistance was used to create ROFL-todo or ROFL-projector, and only guidance (questions/answers) were used for ROFL itself.
 
 No pull requests will be accepted or reviewed - this is a personal tool, and I will improve it for my needs.
 
