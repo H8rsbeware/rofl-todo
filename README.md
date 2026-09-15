@@ -1,6 +1,8 @@
 # ROFL-todo
 A very basic [rofi](https://github.com/davatorium/rofi) based Todo manager written in about 30 minutes.
 
+<img width="2557" height="1438" alt="image" src="https://github.com/user-attachments/assets/364106e6-2168-47c1-bc1f-cc14299287d1" />
+
 
 ##  Requirements 
 - [rofi v2.0.0](https://github.com/davatorium/rofi) - A Linux quick-menu, similar to that of "spotlight"
