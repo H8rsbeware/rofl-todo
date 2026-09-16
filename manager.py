@@ -59,5 +59,8 @@ def add(request: RofiRequest) -> None:
     t.add_todo(todo_text)
 
 
-if __name__ == "__main__":
+def main():
     ROUTER.run()
+
+if __name__ == "__main__":
+    main()
