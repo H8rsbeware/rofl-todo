@@ -13,4 +13,4 @@ venv = ".venv"
 
 
 [project.scripts]
-todos = "manager:main"
+todos = "todos.manager:main"
