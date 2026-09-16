@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import todo as t
+from . import todo as t
 
 from rofl.router import RofiRouter
 from rofl.response import RofiResponse, RofiResponseOptions, RofiRow
