@@ -1,5 +1,5 @@
 [project]
-name = "rofl-projector"
+name = "rofl-todos"
 version = "0.1.0"
 
 dependencies = [
@@ -13,4 +13,4 @@ venv = ".venv"
 
 
 [project.scripts]
-projector = "project:main"
+todos = "manager:main"
